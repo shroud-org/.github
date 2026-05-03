@@ -1,3 +1,3 @@
 # shroud.labs
 
-Dedicated to open source & federated services.
+Creating open-source, federated and private software and services.
